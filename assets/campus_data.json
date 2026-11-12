@@ -1,0 +1,53 @@
+{
+  "facilities": [
+    {
+      "id": "f1",
+      "name": "Perpustakaan Pusat",
+      "category": "Perpustakaan",
+      "description": "Fasilitas perpustakaan modern 4 lantai yang dilengkapi dengan ribuan koleksi buku, ruang diskusi quiet zone, dan akses e-journal 24/7.",
+      "location": "Gedung Rektorat Lt. 2-5",
+      "imageUrl": "https://picsum.photos/id/24/600/400",
+      "operatingHours": "08.00 - 20.00 WIB"
+    },
+    {
+      "id": "f2",
+      "name": "Laboratorium Komputer Lanjut",
+      "category": "Laboratorium",
+      "description": "Laboratorium komputasi performa tinggi untuk praktikum Pemrograman Mobile, Kecerdasan Buatan, dan Jaringan Komputer.",
+      "location": "Gedung Fakultas Ilmu Komputer Lt. 3",
+      "imageUrl": "https://picsum.photos/id/1/600/400",
+      "operatingHours": "08.00 - 17.00 WIB"
+    },
+    {
+      "id": "f3",
+      "name": "Gelanggang Olahraga (GOR) Kampus",
+      "category": "Sarana Olahraga",
+      "description": "Fasilitas olahraga indoor mencakup lapangan basket, bulu tangkis, dan fasilitas gym mahasiswa.",
+      "location": "Area Kampus Barat",
+      "imageUrl": "https://picsum.photos/id/1058/600/400",
+      "operatingHours": "06.00 - 21.00 WIB"
+    }
+  ],
+  "events": [
+    {
+      "id": "e1",
+      "title": "National Tech Seminar 2026",
+      "category": "Seminar",
+      "description": "Seminar nasional yang membahas perkembangan terkini dalam AI, Cross-Platform Development, dan karir di industri teknologi modern.",
+      "date": "25 November 2026",
+      "location": "Auditorium Utama Kampus",
+      "imageUrl": "https://picsum.photos/id/180/600/400",
+      "speaker": "Dr. Tech Master & Team"
+    },
+    {
+      "id": "e2",
+      "title": "Workshop Mobile App Development",
+      "category": "Workshop",
+      "description": "Pelatihan hands-on membangun aplikasi Android dan iOS menggunakan Flutter dari dasar hingga dipublikasikan.",
+      "date": "02 Desember 2026",
+      "location": "Lab Komputer 3",
+      "imageUrl": "https://picsum.photos/id/20/600/400",
+      "speaker": "Senior Mobile Engineer"
+    }
+  ]
+}
